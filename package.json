@@ -1,0 +1,21 @@
+{
+  "name": "muffins-touch-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Passed!",
+    "start": "ts-node index.ts",
+    "watch": "nodemon"
+  },
+  "author": "MetaMuffin",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@types/express": "^4.17.8",
+    "@types/express-ws": "^3.0.0",
+    "@types/node": "^14.11.8",
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "robotjs": "^0.6.0"
+  }
+}

@@ -1,0 +1,23 @@
+
+
+body,html {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin: 0px;
+    padding: 0px;
+    width: 90vw;
+    height: 80vh;
+    background-color: black
+}
+
+#area {
+    background-color: grey;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+}
+
+.error {
+    background-color: red;
+    font-size: larger;
+}
